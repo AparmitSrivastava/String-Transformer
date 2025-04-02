@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    font-family: "Roboto";
+}
+main{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+input{
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: rgb(220, 229, 245);
+}
+
+.transformed-output {
+    font-size: 1.2rem;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background-color: rgb(201, 219, 239);
+    position: relative;
+    text-align: left;
+  }
+  
+  .transformed-output label {
+    font-size: 0.9rem;
+    position: absolute;
+    top: -1.10rem;
+    left: 0.8rem;
+    background-color: rgb(48, 11, 122);
+    color: white;
+    padding: 0.25rem;
+    width: 100px;
+  }

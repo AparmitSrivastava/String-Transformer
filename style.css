@@ -24,9 +24,8 @@ input{
     background-color: rgb(201, 219, 239);
     position: relative;
     text-align: left;
-  }
-  
-  .transformed-output label {
+  }  
+.transformed-output label {
     font-size: 0.9rem;
     position: absolute;
     top: -1.10rem;
